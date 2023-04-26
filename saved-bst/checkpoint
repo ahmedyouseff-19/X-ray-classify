@@ -1,0 +1,2 @@
+model_checkpoint_path: "xray182-best"
+all_model_checkpoint_paths: "xray182-best"
